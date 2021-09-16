@@ -3,6 +3,8 @@ Fly in VRChat, but its way more fun (in VR).
 
 This is my first Mod, i hope you like it!
 
+(Discord changed to streawkceur#1724)
+
 # Instructions
 
 VR Controls:
